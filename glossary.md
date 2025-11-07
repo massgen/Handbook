@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 8
-parent: Resources
+nav_order: 10
 description: "Key terms and definitions"
 permalink: /glossary
 ---

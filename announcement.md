@@ -1,8 +1,7 @@
 ---
 layout: default
-title: 5. Announcements
-nav_order: 5
-parent: Development Pipeline
+title: Announcements
+nav_order: 7
 description: "Share releases with the community"
 permalink: /announcement
 ---

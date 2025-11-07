@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Marketing Track
-nav_order: 4
-parent: Contribution Tracks
+title: Marketing
+nav_order: 8
 description: "Build community and awareness"
 permalink: /marketing
 ---

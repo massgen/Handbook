@@ -1,8 +1,7 @@
 ---
 layout: default
-title: 3. Documentation
-nav_order: 3
-parent: Development Pipeline
+title: Documentation
+nav_order: 5
 description: "Update documentation before release"
 permalink: /documentation
 ---

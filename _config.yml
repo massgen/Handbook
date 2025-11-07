@@ -4,8 +4,8 @@
 title: MassGen Contributor Handbook
 description: Multi-Agent Scaling System for GenAI - Complete contribution guide
 version: 0.1.8
-baseurl: "" # Leave empty if hosting at username.github.io/repo-name
-url: "" # Your GitHub Pages URL
+baseurl: "/handbook"
+url: "https://a5507203.github.io"
 
 # Repository information
 repository: massgen/MassGen
@@ -29,39 +29,23 @@ kramdown:
     block:
       line_numbers: false
 
-# Navigation structure
-navigation:
-  - title: Home
-    url: /
+# Just the Docs theme settings
+aux_links:
+  "GitHub Repository": "https://github.com/massgen/MassGen"
+  "Discord": "https://discord.gg/VVrT2rQaz5"
 
-  - title: Contribution Tracks
-    children:
-      - title: Research Track
-        url: /research
-      - title: Case Studies Track
-        url: /case-studies
-      - title: Marketing Track
-        url: /marketing
+# Footer content
+footer_content: "Copyright &copy; 2025 MassGen Team. MIT License."
 
-  - title: Development Pipeline
-    children:
-      - title: 1. Issues
-        url: /issues
-      - title: 2. Development
-        url: /development
-      - title: 3. Documentation
-        url: /documentation
-      - title: 4. Release
-        url: /release
-      - title: 5. Announcements
-        url: /announcement
+# Color scheme
+color_scheme: light
 
-  - title: Resources
-    children:
-      - title: Resources & Links
-        url: /resources
-      - title: Glossary
-        url: /glossary
+# Enable search
+search_enabled: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 # Exclude from processing
 exclude:
@@ -75,22 +59,10 @@ exclude:
   - README.md
   - HANDBOOK(1).md
 
-# Collections (optional, for future organization)
-collections:
-  tracks:
-    output: true
-    permalink: /:collection/:name
-
 # Default front matter
 defaults:
   - scope:
       path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "tracks"
     values:
       layout: "default"
 

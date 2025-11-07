@@ -1,8 +1,7 @@
 ---
 layout: default
-title: 1. Issues
-nav_order: 1
-parent: Development Pipeline
+title: Issues
+nav_order: 3
 description: "Bug reports, case studies, and feature proposals"
 permalink: /issues
 ---

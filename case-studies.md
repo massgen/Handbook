@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Case Studies Track
-nav_order: 3
-parent: Contribution Tracks
+title: Case Studies
+nav_order: 2
 description: "Document real-world usage"
 permalink: /case-studies
 ---

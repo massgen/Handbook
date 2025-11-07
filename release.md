@@ -1,8 +1,7 @@
 ---
 layout: default
-title: 4. Release
-nav_order: 4
-parent: Development Pipeline
+title: Release
+nav_order: 6
 description: "Merge dev to main and create release"
 permalink: /release
 ---
