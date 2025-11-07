@@ -27,7 +27,7 @@ Browse [GitHub Issues](https://github.com/massgen/MassGen/issues)
 **Claim an issue:**
 1. Find open, unassigned issue
 2. Comment: "I would like to work on this"
-3. Wait for assignment (1-2 days)
+3. Wait for assignment 
 4. Do not start before assignment
 
 ---

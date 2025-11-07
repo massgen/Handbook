@@ -126,7 +126,7 @@ Marketing runs independently in parallel with other tracks:
 
 **Response Time:**
 - Discord: Usually within a few hours
-- For partnership inquiries: 1-2 days
+- For partnership inquiries: 
 
 ---
 
