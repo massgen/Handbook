@@ -138,6 +138,10 @@ MassGen welcomes contributions across four distinct tracks. Each track has its o
 | **Case Studies** | Document real-world usage examples | sealover8336 |
 | **Marketing** | Social media, content, partnerships | justin_zhang |
 | **Development** | Code, tests, docs, bug fixes | nickcrispino, danrui2020 |
+| **Documents** | Update documentation before releases | TBD |
+| **Announcement** | Share releases on social media | TBD |
+| **Onboarding** | Help new people become contributors | TBD |
+
 
 For detailed contact information, communication channels, and response times, see the [Contact Directory](resources#contact-directory)
 
