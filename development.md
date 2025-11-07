@@ -43,29 +43,6 @@ cd MassGen
 git remote add upstream https://github.com/massgen/MassGen.git
 ```
 
-**Install Dependencies:**
-```bash
-# Using uv (recommended)
-pip install uv
-uv pip install -e .
-uv pip install -r requirements-dev.txt
-
-# Or using pip
-pip install -e .
-pip install -r requirements-dev.txt
-```
-
-**Setup Pre-commit:**
-```bash
-pip install pre-commit
-pre-commit install
-```
-
-**Configure API Keys:**
-```bash
-cp .env.example .env
-# Edit .env with your API keys
-```
 
 **Create Branch:**
 ```bash
