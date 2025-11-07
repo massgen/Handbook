@@ -135,7 +135,7 @@ MassGen welcomes contributions across four distinct tracks. Each track has its o
 | Track | What You Do | Name | Contact (Discord) |
 |-------|-------------|------|-------------------|
 | **Research** | Propose features at research meetings | Jeffrey | jeffreycho |
-| **Case Studies** | Document real-world usage examples | Yu | sealover8336 |
+| **Case Studies** | Document real-world usage examples | TBD | sealover8336 |
 | **Marketing** | Social media, content, partnerships | Justin | justin_zhang |
 | **Development** | Code, tests, docs, bug fixes | Nick, Danrui | nickcrispino, danrui2020 |
 | **Documents** | Update documentation before releases | TBD | TBD |
