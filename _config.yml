@@ -3,8 +3,8 @@
 # Site settings
 title: MassGen Contributor Handbook
 description: Multi-Agent Scaling System for GenAI - Complete contribution guide
-baseurl: "/handbook"
-url: "https://a5507203.github.io"
+baseurl: "/Handbook"
+url: "https://massgen.github.io"
 
 # Repository information
 repository: massgen/MassGen
@@ -16,6 +16,7 @@ remote_theme: just-the-docs/just-the-docs
 
 # Enable plugins
 plugins:
+  - jekyll-remote-theme 
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
