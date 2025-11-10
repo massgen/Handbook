@@ -10,7 +10,7 @@ permalink: /
 
 Multi-Agent Scaling System for GenAI
 
-Version 0.1.8 | Last Updated: November 2025
+Last Updated: November 2025
 
 ---
 

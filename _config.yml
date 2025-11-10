@@ -3,7 +3,6 @@
 # Site settings
 title: MassGen Contributor Handbook
 description: Multi-Agent Scaling System for GenAI - Complete contribution guide
-version: 0.1.8
 baseurl: "/handbook"
 url: "https://a5507203.github.io"
 

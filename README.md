@@ -2,8 +2,6 @@
 
 Multi-Agent Scaling System for GenAI - Complete contribution guide
 
-Version 0.1.8
-
 ## About
 
 This handbook provides comprehensive guidance for contributing to MassGen across four tracks:
