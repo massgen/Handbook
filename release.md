@@ -133,7 +133,15 @@ After release, see [Announcements](announcement) for sharing with community.
 **Project Maintainers:**
 
 **Chi Wang**
-- GitHub: [@sonichi](https://github.com/sonichi)
+- **Discord:** sonichi
+- **GitHub:** [@sonichi](https://github.com/sonichi)
+
+**Release Documentation:**
+
+**Henry**
+- **Discord:** henry_weiqi
+- **GitHub:** [@Henry-811](https://github.com/Henry-811)
+
 
 ---
 

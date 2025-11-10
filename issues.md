@@ -107,13 +107,9 @@ is:issue "memory system"
 
 ## Contact
 
-**Development Track:**
-- Nick: nickcrispino ([@ncrispino](https://github.com/ncrispino))
-- Danrui: danrui2020 ([@qidanrui](https://github.com/qidanrui))
+**Development Track:** [Development Leaders](development#contact)
 
-**Case Studies Track:**
-- Nick: nickcrispino ([@ncrispino](https://github.com/ncrispino))
-- Yu: crinvo ([@a5507203](https://github.com/a5507203))
+**Case Studies Track:** [Case Studies Leader](case-studies#contact)
 
 ---
 

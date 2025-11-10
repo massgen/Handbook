@@ -171,12 +171,12 @@ git push origin feature/your-feature-name
 **Development Track:**
 
 **Nick Crispino**
-- Discord: nickcrispino
-
+- **Discord:** nickcrispino
+- **GitHub:** [@ncrispino](https://github.com/ncrispino)
 
 **Danrui**
-- Discord: danrui2020
-
+- **Discord:** danrui2020
+- **GitHub:** [@qidanrui](https://github.com/qidanrui)
 
 ---
 

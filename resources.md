@@ -74,12 +74,17 @@ Quick reference for documentation, community, and contacts.
 
 | Track | Name | Discord | GitHub |
 |-------|------|---------|--------|
+| Project Leader | Chi Wang | sonichi | [@sonichi](https://github.com/sonichi) |
 | Research | Jeffrey | jeffreycho | [@JeffreyCh0](https://github.com/JeffreyCh0) |
-| Case Studies | Nick | nickcrispino | [@ncrispino](https://github.com/ncrispino) |
-| Case Studies | Yu | crinvo | [@a5507203](https://github.com/a5507203) |
+| Case Studies | Aaron | sealover8336 | [@TBD](https://github.com/TBD) |
 | Marketing | Justin | justin_zhang | [@voidcenter](https://github.com/voidcenter) |
-| Development | Nick | nickcrispino | [@ncrispino](https://github.com/ncrispino) |
 | Development | Danrui | danrui2020 | [@qidanrui](https://github.com/qidanrui) |
+|| Nick | nickcrispino | [@ncrispino](https://github.com/ncrispino) |
+| Documents | Henry | henry_weiqi | [@Henry-811](https://github.com/Henry-811) |
+| Announcement | Yu | crinvo | [@a5507203](https://github.com/a5507203) |
+| Onboarding | Justin | justin_zhang | [@voidcenter](https://github.com/voidcenter) |
+|| Nick | nickcrispino | [@ncrispino](https://github.com/ncrispino) |
+|| Yu | crinvo | [@a5507203](https://github.com/a5507203) |
 
 **Full Team Directory:** [Team Spreadsheet](https://docs.google.com/spreadsheets/d/1pNmMOdEmqb6TKOPjhk3NBPJWCWMvTTDaq1FufLfL3j4/edit?gid=0#gid=0)
 
