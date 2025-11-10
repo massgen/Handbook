@@ -123,7 +123,7 @@ Monitor engagement:
 ## Contact
 
 **Yu**
-- Discord: crinvo
+- **Discord**: crinvo
 
 ---
 

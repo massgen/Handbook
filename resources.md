@@ -74,15 +74,15 @@ Quick reference for documentation, community, and contacts.
 
 | Track | Name | Discord |
 |-------|------|---------|
-| Founder | Chi Wang | sonichi |
-| Research | Jeffrey | jeffreycho | 
-| Case Studies | Aaron | sealover8336 |
-| Development | Danrui | danrui2020 |
+| **Founder** | Chi Wang | sonichi |
+| **Research** | Jeffrey | jeffreycho | 
+| **Case Studies** | Aaron | sealover8336 |
+| **Development** | Danrui | danrui2020 |
 || Nick | nickcrispino | 
-| Documents | Henry | henry_weiqi | 
-| Announcement | Yu | crinvo |
-| Marketing | Justin | justin_zhang |
-| Onboarding | Justin | justin_zhang | 
+| **Documents** | Henry | henry_weiqi | 
+| **Announcement** | Yu | crinvo |
+| **Marketing** | Justin | justin_zhang |
+| **Onboarding** | Justin | justin_zhang | 
 || Nick | nickcrispino | 
 || Yu | crinvo |
 

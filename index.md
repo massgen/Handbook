@@ -98,7 +98,7 @@ graph TB
 
 ### Research Meetings
 
-**When:** 6:00pm PST, XXX
+**When:** 6:00pm PST, on demand
 
 **Purpose:**
 - indentify and refine long and short term goals

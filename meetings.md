@@ -14,7 +14,7 @@ MassGen holds two types of regular meetings to coordinate contributions.
 
 ## Research Meetings
 
-**When:** 6:00pm PST, [Schedule TBD]
+**When:** 6:00pm PST, on demand
 
 **Purpose:**
 - Identify and refine long and short term goals
@@ -108,7 +108,7 @@ Quick round-robin updates (2-3 minutes per person):
 - **Discord:** jeffreycho
 
 **Yu**
-- **Discord:** Yu
+- **Discord:** crinvo
 
 ---
 
