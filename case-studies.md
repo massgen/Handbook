@@ -101,4 +101,4 @@ We need to ensure each feature has a defined case study before development start
 
 ---
 
-[Previous: Home](index) | [Next: Issues](Issues)
+[Previous: Home](index) | [Next: Issues](issues)

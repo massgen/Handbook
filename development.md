@@ -176,4 +176,4 @@ git push origin feature/your-feature-name
 
 ---
 
-[Back to Home](index) | [Previous: Issues](Issues) | [Next: Documentation Guide](Documentation)
+[Back to Home](index) | [Previous: Issues](issues) | [Next: Documentation Guide](documentation)
