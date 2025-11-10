@@ -64,12 +64,6 @@ Quick reference for documentation, community, and contacts.
 
 ## Contact Directory
 
-### Project Leadership
-
-| Role | Name | Discord | GitHub |
-|------|------|---------|--------|
-| Project Leader | Chi Wang | sonichi | [@sonichi](https://github.com/sonichi) |
-
 ### Track Owners
 
 | Track | Name | Discord |
