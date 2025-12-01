@@ -68,8 +68,8 @@ Quick reference for documentation, community, and contacts.
 
 | Track | Name | Discord |
 |-------|------|---------|
-| **Founder** | Chi Wang | sonichi |
-| **Research** | Jeffrey | jeffreycho | 
+| **Founder** | Chi | sonichi |
+| **Research** | Yu | crinvo | 
 | **Case Studies** | Aaron | sealover8336 |
 | **Development** | Danrui | danrui2020 |
 || Nick | nickcrispino | 
