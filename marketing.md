@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marketing
-nav_order: 8
+nav_order: 10
 description: "Build community and awareness"
 permalink: /marketing
 ---

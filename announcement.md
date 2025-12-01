@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Announcements
-nav_order: 7
+nav_order: 9
 description: "Share releases with the community"
 permalink: /announcement
 ---

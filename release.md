@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Release
-nav_order: 6
+nav_order: 8
 description: "Merge dev to main and create release"
 permalink: /release
 ---
