@@ -86,7 +86,7 @@ graph TB
 
 ### Daily Sync Meetings
 
-**When:** 5:30pm PST, every day
+**When:** 5:30pm-6:00pm PST, every day
 
 **Purpose:**
 - Share progress updates from each track owner
@@ -98,12 +98,12 @@ graph TB
 
 ### Research Meetings
 
-**When:** 6:00pm PST, on demand
+**When:** 6:00pm-7:00pm PST, on demand
 
 **Purpose:**
-- indentify and refine long and short term goals
-- propose concrete case studies to achieve short term goals
-- generate features need to be developed
+  - Share well-motivated research problems and intuitive solutions
+  - Identify problems for MassGen, propose case studies, and generate features
+
 
 
 ---
@@ -134,8 +134,8 @@ MassGen welcomes contributions across four distinct tracks. Each track has its o
 
 | Track | What You Do | Name | Contact (Discord) |
 |-------|-------------|------|-------------------|
-| **Founder** | Lead project vision and strategy | Chi Wang | sonichi |
-| **Research** | Propose features at research meetings | Jeffrey | jeffreycho |
+| **Founder** | Lead project vision and strategy | Chi | sonichi |
+| **Research** | Propose features at research meetings | Yu | crinvo |
 | **Case Studies** | Document real-world usage examples | Aaron | sealover8336 |
 | **Development** | Code, tests, docs, bug fixes | Danrui, Nick | danrui2020, nickcrispino |
 | **Documents** | Update documentation before releases | Henry | henry_weiqi |
