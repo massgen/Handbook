@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Meeting
-nav_order: 12
+nav_order: 3
 description: "Research meetings for MassGen"
 permalink: /research-meeting
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sync Meeting
-nav_order: 11
+nav_order: 2
 description: "Daily sync meetings for MassGen"
 permalink: /sync-meeting
 ---

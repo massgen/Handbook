@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documentation
-nav_order: 5
+nav_order: 7
 description: "Update documentation before release"
 permalink: /documentation
 ---

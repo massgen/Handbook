@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Issues
-nav_order: 3
+nav_order: 5
 description: "Bug reports, case studies, and feature proposals"
 permalink: /issues
 ---

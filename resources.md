@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-nav_order: 9
+nav_order: 11
 description: "Documentation, links, and contact information"
 permalink: /resources
 ---

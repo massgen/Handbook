@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Development
-nav_order: 4
+nav_order: 6
 description: "Development pipeline from issue to release"
 permalink: /development
 ---
